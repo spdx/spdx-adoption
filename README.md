@@ -1,2 +1,5 @@
-# spdx-adoption
-Keeping list of projects that are using SPDX headers, and those that are able to generate SPDX documents.
+# SPDX Adoption
+
+Projects known to use SPDX headers: HEADERS.md
+
+Projects known to generate SPDX documents with releases:  DOCUMENTS.md
