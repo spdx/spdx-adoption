@@ -12,3 +12,4 @@ Projects known to use SPDX headers:
 * [yotta](http://docs.yottabuild.org/reference/licenses.html)
 
 Projects known to generate SPDX documents with releases:  
+* [SPDX Tools](https://bintray.com/spdx/spdx-tools)
