@@ -10,6 +10,7 @@ Projects known to use SPDX headers:
 * NPM packages: [spdx-license-ids](https://www.npmjs.com/package/spdx-license-ids) and [spdx](https://www.npmjs.com/package/spdx)
 * [Tern](https://github.com/vmware/tern)
 * [yotta](http://docs.yottabuild.org/reference/licenses.html)
+* [Fedora Linux](https://getfedora.org/) ([Change page](https://fedoraproject.org/wiki/Changes/SPDX_Licenses_Phase_1))
 
 Projects known to generate SPDX documents with releases:  
 * [SPDX Tools](https://bintray.com/spdx/spdx-tools)
